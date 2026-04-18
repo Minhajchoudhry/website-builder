@@ -1,7 +1,8 @@
 {
   "name": "My Website",
   "short_name": "MyApp",
-  "start_url": "/",
+  "start_url": "/website-builder/",
+  "scope": "/website-builder/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
